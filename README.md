@@ -1,5 +1,3 @@
-# Gedon76
-
 Hey, I'm a guy with a stupid nickname and suspended X page for whatever reason.
 
 If you use GNU/Linux, check out [my dotfiles](https://github.com/gedon76/dotfiles/), maybe you'll like them
