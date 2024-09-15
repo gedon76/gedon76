@@ -1,5 +1,7 @@
 Hey, I'm a guy with a stupid nickname and suspended X page for whatever reason.
 
+I have a [website](https://gedon76.fun)... it's pretty shitty, I know... The only thing I don't know is CSS lol
+
 If you use GNU/Linux, check out [my dotfiles](https://github.com/gedon76/dotfiles/), maybe you'll like them
 
 <img src="https://raw.githubusercontent.com/gedon76/dotfiles/main/images/screenshot.png" alt="dotfiles" width="600"/>
